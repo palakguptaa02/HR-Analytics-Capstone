@@ -178,14 +178,6 @@ This system enables organizations to:
 - Build scalable HR analytics systems  
 
 
- 📄 Resume Project Description
-
-**HR Attrition Analytics Dashboard**  
-Built an end-to-end HR analytics solution using Python, SQL, and Power BI.  
-Cleaned and processed HR datasets, designed relational SQL models, created business KPIs, and developed an interactive Power BI dashboard to analyze attrition trends, early attrition risks, workforce performance, and employee satisfaction for data-driven HR decision-making.
-
-
-
  ⭐ Author
 
 **Palak Gupta**  

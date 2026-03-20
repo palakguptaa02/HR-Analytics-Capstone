@@ -129,11 +129,8 @@ Business Insights
 - Data cleaning  
 - Missing value handling  
 - Data type correction  
-- Feature engineering  
-- Dataset merging  
-- Data validation  
-- Analytical dataset creation  
-
+- Dataset merging
+  
 
  📑 SQL Implementation
 

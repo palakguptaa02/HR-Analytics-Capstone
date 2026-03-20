@@ -51,7 +51,6 @@ Business Insights
 | Analysis        | SQL Queries + Python                |
 | BI Tool         | Power BI                            |
 | Visualization   | Power BI Dashboard                  |
-| Documentation   | Markdown, PDF, PPT                  |
 | Version Control | GitHub                              |
 
 

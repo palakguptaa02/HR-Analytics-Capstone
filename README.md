@@ -54,21 +54,6 @@ Business Insights
 | Version Control | GitHub                              |
 
 
-📊 KPIs Implemented
-
-🧮 Total Employees
-
-🧮 Attrition Count
-
-🧮 Attrition Rate (%)
-
-🧮 Average Salary
-
-🧮 Early Attrition (< 3 Years)
-
-🧮 Gender Attrition Rate
-
-
  📊 Dashboard KPIs
 
  🧮 Total Employees  

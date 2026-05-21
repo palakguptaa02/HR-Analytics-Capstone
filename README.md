@@ -124,6 +124,12 @@ Business Insights
 - Role-wise early attrition
 
 
+  
+## 📊 Dashboard Preview
+
+![HR Dashboard](hr_dashboard.png)
+
+
  🐍 Python Implementation
 
 - Data cleaning  

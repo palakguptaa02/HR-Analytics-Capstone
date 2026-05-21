@@ -29,7 +29,7 @@ Support data-driven HR decisions
 
 
 🧱 Project Architecture
-
+```
 Data Sources
    ↓
 Python (Cleaning & Processing)
@@ -41,7 +41,7 @@ Power BI (Modeling & DAX)
 Dashboard (Visualization)
    ↓
 Business Insights
-
+```
 
 🛠️ Tools & Technologies
 | Category        | Tools Used                          |
